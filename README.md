@@ -33,3 +33,6 @@ This file contains a random sample of 100 most helpful first user reviews for ea
     Sentiment Category: Sentiment category of the user review - Positive, Negative or Neutral
     Sentiment Score: Sentiment score of the user review. It lies between [-1,1]. A higher score denotes a more positive sentiment.
 
+![image](https://github.com/RicardoGrayson/AndroidAppnalysis/assets/63846918/a8f67c95-77b2-4d7c-a18c-bad7ff03b9f3)
+![image](https://github.com/RicardoGrayson/AndroidAppnalysis/assets/63846918/7d288e6a-a95b-4e94-9dc6-4dc73856c426)
+
