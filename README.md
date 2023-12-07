@@ -1,5 +1,5 @@
 # AndroidAppnalysis
-Analyzing Android App market by category, and identifying apps with strongest review sentiment scores.
+Analyzing Android App market by category, and identifying apps with strongest review sentiment scores. The code provided can be easily modified to investigate any given category, but for the purposes of the immediate objectives focuses on FINANCE apps in the Google app store.
 
 Project objectives
   1: Read csv files and perform basic cleaning and validation on the apps DataFrame
