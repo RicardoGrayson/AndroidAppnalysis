@@ -36,6 +36,6 @@ This file contains a random sample of 100 most helpful first user reviews for ea
 ![image](https://github.com/RicardoGrayson/AndroidAppnalysis/assets/63846918/a8f67c95-77b2-4d7c-a18c-bad7ff03b9f3)
 ![image](https://github.com/RicardoGrayson/AndroidAppnalysis/assets/63846918/7d288e6a-a95b-4e94-9dc6-4dc73856c426)
 
-Link to Tableau Public Vim:
+Link to Tableau Public interactive Visualization:
 https://public.tableau.com/views/GooglePlayStoreAppnalysis/GooglePlayStoreApps2018?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
